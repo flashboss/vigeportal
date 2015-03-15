@@ -1,0 +1,1 @@
+It is a set of components, layout and theme for vige portal. It is based on Gatein
